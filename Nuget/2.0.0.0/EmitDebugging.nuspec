@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<package>
+  <metadata> 
+    <id>EmitDebugger</id> 
+    <version>2.0.0.0</version> 
+    <authors>Jason Bock</authors> 
+    <owners>Jason Bock</owners>
+    <description>AAn assembly that emits an IL text file when code is emitted.</description> 
+    <projectUrl>https://github.com/JasonBock/EmitDebugger</projectUrl>
+    <licenseUrl>https://github.com/JasonBock/EmitDebugger</licenseUrl>
+    <tags>netframework</tags>
+    <language>en-US</language> 
+    <dependencies>
+      <dependency id="Spackle" version="7.1.0.0" />
+    </dependencies>	 
+  </metadata> 
+</package>
